@@ -1,0 +1,28 @@
+[
+                {
+                    "name": "Acuarela",
+                    "code": "ARO107P",
+                    "about": "En este curso el estudiante conocerá y practicará técnicas de pintura con acuarela, abordando tanto los aspectos técnicos de la disciplina como la formulación de propuestas personales de creación. El taller se desarrollará mediante sesiones presenciales donde se elaborarán ejercicios prácticos y se analizarán artistas que utilizan la acuarela. El proceso de aprendizaje se evaluará mediante entregas parciales y una entrega final elaborada a partir de un proyecto de creación individual"
+                },
+                {
+                    "name": "Representaciones del Género: Perspectivas Contemporáneas",
+                    "code": "ARO108I",
+                    "about": "Este curso aborda las relaciones entre el arte contemporáneo y el feminismo, los estudios de género y sus perspectivas. A través de obras claves y momentos históricos significativos, se explorará el mapa de las principales reflexiones y proyectos artísticos de género, tanto como su contexto social, cultural y político. El curso incorpora las prácticas metodológicas del arte colaborativo y la crítica especializada, de modo que se realizarán propuestas prácticas y críticas que pongan en relación el arte con la identidad de género por parte de los alumnos de manera individual y grupal"
+                },
+                {
+                    "name": "Dibujo de Retratos",
+                    "code": "ARO102D",
+                    "about": "En este curso los estudiantes abordarán el género del retrato a partir del dibujo, desarrollando sus aspectos técnicos, formales y expresivos"
+                },
+                {
+                    "name": "Narración Transmedia Digital e Interactiva: Impactando a la Industria Creativa y de Medios",
+                    "code": "COM906",
+                    "about": "El objeto de estudio del curso son las narrativas generadas y potenciadas por los procesos digitales de creación, distribución y consumo de contenidos, y por la participación de los destinatarios finales y el público en ellos. El curso se inicia con una perspectiva histórica para acercarse a los conceptos que aún están presentes en las industrias creativas, para luego abordar los fundamentos de la interactividad en la narración y las nuevas tendencias en la industria. Mediante lecturas, análisis, visionado y la elaboración de un proyecto, se conocerán los aspectos básicos de los procesos, producción y consumo de la narración en entornos digitales con participación del usuario"
+                },
+                {
+                    "name": "Estéticas Espaciales, Género y Artes Visuales",
+                    "code": "ARQ3261",
+                    "about": "El curso invita a repensar la relación entre espacio y género tal como se piensa y critica desde las artes visuales. La organización espacial de nuestras sociedades refleja sesgos de género que tienden, históricamente, a asociar el femenino con espacios domésticos y el masculino con la esfera pública. Este binarismo y determinismo espacial se evidencian en la arquitectura, el urbanismo, el diseño y el patrimonio. En una época de urgencia climática, este sesgo se detecta también en las políticas públicas y su instrumentalización del territorio y de los recursos naturales. Las artes visuales, particularmente el arte de performance y el arte público, ofrecen herramientas críticas que buscan subvertir estas lecturas. El curso examina obras provenientes de las artes visuales que desestabilizan las distribuciones espaciales según líneas establecidas de género y su despliegue en el espacio público, las instituciones, la casa y el medioambiente. A través de lecturas provenientes de la teoría feminista, el eco-feminismo, la ecología queer, la crítica institucional, los estudios críticos de patrimonio y el pensamiento decolonial, el curso invita a repensar la relación entre género, espacios y afectos"
+                }
+                
+            ]
